@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">menu1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="ccc">#FBFBFF</color>
+
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_user">User</string>
+
+</resources>
