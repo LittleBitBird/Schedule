@@ -129,7 +129,7 @@ public class MainActivity extends Activity {
 		Thread thread = new Thread(t);
 		thread.start();
 		try {
-			thread.join();
+			thread.join();//变为同步
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
